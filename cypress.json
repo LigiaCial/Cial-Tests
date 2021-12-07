@@ -1,0 +1,4 @@
+{
+    "watchForFileChanges": false,
+    "baseUrl": "https://staging.accounts.cialdnb.com/login?origin=https://staging.360.cialdnb.com/auth/check"
+}
